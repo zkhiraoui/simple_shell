@@ -1,0 +1,16 @@
+# This file lists all individuals having contributed content to the repository.
+
+Silas Mugambi Mungiria <mungiria8@gmail.com>
+Mitchelle Muiruri Wanjiku <muiruri003michelle@gmail.com>
+
+## Contributions:
+
+### Silas Mugambi Mungiria:
+ - Implemented the main shell loop and basic functionality such as parsing user input and executing commands.
+ - Added support for built-in shell commands and environment variables.
+ - Implemented the signal handling mechanism for interrupt and termination signals.
+
+### Mitchelle Muiruri Wanjiku:
+ - Implemented the functionality for executing external commands using the PATH variable.
+ - Added support for input/output redirection and piping.
+ - Implemented background processes and job control mechanisms.
